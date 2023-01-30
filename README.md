@@ -1,7 +1,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=triagung128.triagung128)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/40823228/215547716-e55bb469-f5c1-4b9b-a5f7-c66bf099af84.png" alt="My Banner">
+  <a href="#"><img src="https://user-images.githubusercontent.com/40823228/215547716-e55bb469-f5c1-4b9b-a5f7-c66bf099af84.png" alt="My Banner"></a>
 </p>
 
 <h3 align="center">
@@ -15,9 +15,9 @@ I'm a Flutter Mobile Developer 💻!
 I love the entire process of developing creative mobile apps. I like challenges and learn new things.
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/triagungsusilo/"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
-<a href="https://instagram.com/triagungggg"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/instagram.svg" alt="Tri Agung | Instagram" width="48px"/></a>
-<a href="https://t.me/triagung128"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/telegram.svg" alt="Tri Agung | Telegram" width="48px"/></a>
+<a href="https://www.linkedin.com/in/triagungsusilo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
+<a href="https://instagram.com/triagungggg" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/instagram.svg" alt="Tri Agung | Instagram" width="48px"/></a>
+<a href="https://t.me/triagung128" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/telegram.svg" alt="Tri Agung | Telegram" width="48px"/></a>
 <br/><br/>
 - 💼 Any freelance work? do reach, [email](mailto:triagung128@gmail.com) :)
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev), i am happy to help;
