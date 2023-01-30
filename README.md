@@ -1,7 +1,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=triagung128.triagung128)
 
-<p align=”center”>
-  <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/40823228/215524935-1a47de32-08cc-4bca-9b08-eb63577eb99c.png" alt="My Banner">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40823228/215547716-e55bb469-f5c1-4b9b-a5f7-c66bf099af84.png" alt="My Banner">
 </p>
 
 <h3 align="center">
