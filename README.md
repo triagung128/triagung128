@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://github.com/triagung128" target="_blank" rel="nore
 I'm a Flutter Mobile Developer 💻!
 </h2>
 
-I love the entire process of developing creative mobile apps. I like challenges and learn new things.
+I love the entire process of developing creative mobile apps. I like challenges and learn new things. You can see my portfolio in this site :)
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/triagungsusilo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
