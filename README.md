@@ -42,6 +42,10 @@ I love the entire process of developing creative mobile apps. I like challenges 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📈 GitHub Stats
 [![Tri Agung's github stats](https://github-readme-stats.vercel.app/api?username=triagung128)](https://github.com/triagung128)
 
