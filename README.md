@@ -47,6 +47,6 @@ I love the entire process of developing creative mobile apps. I like challenges 
 <!--END_SECTION:waka-->
 
 ## 📈 GitHub Stats
-[![Tri Agung's github stats](https://github-readme-stats.vercel.app/api?username=triagung128)](https://github.com/triagung128)
+[![Tri Agung's github stats](https://github-readme-stats.vercel.app/api?username=triagung128&show_icons=true&hide=contribs,issues&count_private=true&theme=tokyonight)](https://github.com/triagung128)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triagung128&layout=compact)](https://github.com/triagung128) -->
