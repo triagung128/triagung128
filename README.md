@@ -44,6 +44,14 @@ I love the entire process of developing creative mobile apps. I like challenges 
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```text
+Dart             23 hrs          ████████████████████░░░░░   80.36 %
+Markdown         2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+YAML             1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Other            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📈 GitHub Stats
