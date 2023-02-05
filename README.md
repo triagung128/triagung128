@@ -16,7 +16,6 @@ I love the entire process of developing creative mobile apps. I like challenges 
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/triagungsusilo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
-<a href="https://instagram.com/triagungggg" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/instagram.svg" alt="Tri Agung | Instagram" width="48px"/></a>
 <a href="https://t.me/triagung128" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/telegram.svg" alt="Tri Agung | Telegram" width="48px"/></a>
 <br/><br/>
 - 💼 Any freelance work? do reach, [email](mailto:triagung128@gmail.com) :)
