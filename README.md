@@ -46,11 +46,12 @@ I love the entire process of developing creative mobile apps. I like challenges 
 <!--START_SECTION:waka-->
 
 ```text
-Dart             12 hrs 46 mins  ██████████████████░░░░░░░   71.46 %
-YAML             1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Markdown         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-XML              39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Other            23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Dart             8 hrs 39 mins   ████████████████░░░░░░░░░   64.11 %
+YAML             1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Markdown         1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+XML              39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Groovy           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
