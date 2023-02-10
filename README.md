@@ -1,8 +1,9 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=triagung128.triagung128)
 
 <p align="center">
-  <a href="#"><img src="https://user-images.githubusercontent.com/40823228/215547716-e55bb469-f5c1-4b9b-a5f7-c66bf099af84.png" alt="My Banner"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/40823228/218015921-df18fb7a-2d71-4c4d-a5da-d52900c78807.png" alt="My Banner"></a>
 </p>
+
 
 <h3 align="center">
 Hi there, I'm <a href="https://github.com/triagung128" target="_blank" rel="noreferrer">Agung</a> 👋
