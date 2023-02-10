@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://github.com/triagung128" target="_blank" rel="nore
 </h3>
 
 <h2 align="center">
-I'm a Flutter Mobile Developer 💻!
+I'm a Mobile Developer (Flutter) 💻!
 </h2>
 
 I love the entire process of developing creative mobile apps. I like challenges and learn new things. You can see my portfolio in this site :)
