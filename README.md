@@ -10,10 +10,11 @@ Hi there, I'm <a href="https://github.com/triagung128" target="_blank" rel="nore
 
 I love the entire process of developing mobile apps with flutter. I like challenges and learn new things. You can see my portfolio in this site :)
 
-## 🤝 Connect with me:
+## 🤝 Connect with me
 <a href="https://www.linkedin.com/in/triagungsusilo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
 <a href="https://t.me/triagung128" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/telegram.svg" alt="Tri Agung | Telegram" width="48px"/></a>
-<a href="mailto:triagung128@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/gmail.svg" alt="Tri Agung | Telegram" width="48px"/></a>
+<a href="mailto:triagung128@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/gmail.png" alt="Tri Agung | Gmail" width="48px"/></a>
+</br>
 
 ## 🌱 I'm currently learning
 - Flutter
