@@ -1,7 +1,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=triagung128.triagung128)
 
 <p align="center">
-  <a href="#"><img src="https://user-images.githubusercontent.com/40823228/215547716-e55bb469-f5c1-4b9b-a5f7-c66bf099af84.png" alt="My Banner"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/40823228/218015921-df18fb7a-2d71-4c4d-a5da-d52900c78807.png" alt="My Banner"></a>
 </p>
 
 <h2 align="center">
@@ -12,7 +12,6 @@ I love the entire process of developing mobile apps with flutter. I like challen
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/triagungsusilo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
-<a href="https://instagram.com/triagungggg" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/instagram.svg" alt="Tri Agung | Instagram" width="48px"/></a>
 <a href="https://t.me/triagung128" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/telegram.svg" alt="Tri Agung | Telegram" width="48px"/></a>
 <br/><br/>
 - 💼 Any freelance work? do reach, [email](mailto:triagung128@gmail.com) :)
@@ -40,6 +39,16 @@ I love the entire process of developing mobile apps with flutter. I like challen
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```text
+Dart         32 hrs 35 mins  ███████████████████████▓░   94.72 %
+PHP          1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📈 GitHub Stats
