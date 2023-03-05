@@ -4,15 +4,11 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/40823228/215547716-e55bb469-f5c1-4b9b-a5f7-c66bf099af84.png" alt="My Banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="https://github.com/triagung128" target="_blank" rel="noreferrer">Agung</a> 👋
-</h3>
-
 <h2 align="center">
-I'm a Flutter Mobile Developer 💻!
+Hi there, I'm <a href="https://github.com/triagung128" target="_blank" rel="noreferrer">Agung</a> 👋
 </h2>
 
-I love the entire process of developing creative mobile apps. I like challenges and learn new things. You can see my portfolio in this site :)
+I love the entire process of developing mobile apps with flutter. I like challenges and learn new things. You can see my portfolio in this site :)
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/triagungsusilo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
@@ -23,9 +19,9 @@ I love the entire process of developing creative mobile apps. I like challenges 
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev), i am happy to help;
 
 ## 🌱 I'm currently learning
-- 📱 Flutter
+- Flutter
 - Firebase
-- Flutter Bloc
+- Bloc
 - Clean Architecture
 
 ## 💼 Technical Skills
