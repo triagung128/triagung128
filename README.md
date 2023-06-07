@@ -1,5 +1,3 @@
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=triagung128.triagung128)
-
 <!-- <p align="center">
   <a href="#"><img src="https://user-images.githubusercontent.com/40823228/218015921-df18fb7a-2d71-4c4d-a5da-d52900c78807.png" alt="My Banner"></a>
 </p> -->
@@ -11,8 +9,6 @@ Hi there, I'm <a href="https://github.com/triagung128" target="_blank" rel="nore
 I love the entire process of developing mobile apps with flutter. I like challenges and learn new things. You can see my portfolio in this site :)
 
 ## 🤝 Connect with me
-<a title="Linkedin" href="https://www.linkedin.com/in/triagungsusilo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/linkedin.svg" alt="Tri Agung | LinkedIn" width="48px"/></a>
-<a title="Telegram" href="https://t.me/triagung128" target="_blank"><img align="left" src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/telegram.svg" alt="Tri Agung | Telegram" width="48px"/></a>
 <center><a title="Email" href="mailto:triagung128@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/triagung128/triagung128/main/images/gmail.png" alt="Tri Agung | Gmail" width="52px"/></a></center>
 
 ## 🌱 I'm currently learning
