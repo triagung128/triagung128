@@ -35,11 +35,11 @@ I love the entire process of developing mobile apps with flutter. I like challen
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hr 35 mins    ██████████████▓░░░░░░░░░░   59.08 %
-Go           31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Text         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-YAML         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Go           3 hrs 39 mins   █████████████▓░░░░░░░░░░░   55.30 %
+Dart         2 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.01 %
+Text         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
