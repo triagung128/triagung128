@@ -35,7 +35,7 @@ I love the entire process of developing mobile apps with flutter. I like challen
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
