@@ -35,10 +35,10 @@ I love the entire process of developing mobile apps with flutter. I like challen
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          9 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   39.49 %
-JavaScript   8 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   34.47 %
-HTML         6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+CSS          7 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
+JavaScript   6 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.69 %
+HTML         5 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.46 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
