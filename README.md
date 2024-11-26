@@ -11,7 +11,7 @@ Let's build something amazing together! 🚀
 <!--START_SECTION:waka-->
 
 ```TypeScript JavaScript PHP
-From: 25 November 2023 - To: 24 November 2024
+From: 26 November 2023 - To: 25 November 2024
 
 Total Time: 566 hrs 9 mins
 
