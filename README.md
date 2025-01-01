@@ -11,9 +11,9 @@ Let's build something amazing together! 🚀
 <!--START_SECTION:waka-->
 
 ```TypeScript JavaScript PHP
-From: 31 December 2023 - To: 30 December 2024
+From: 01 January 2024 - To: 31 December 2024
 
-Total Time: 538 hrs 57 mins
+Total Time: 538 hrs 56 mins
 
 TypeScript         242 hrs 57 mins ███████████▒░░░░░░░░░░░░░   44.88 %
 JavaScript         125 hrs 52 mins █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
