@@ -11,16 +11,15 @@ Let's build something amazing together! 🚀
 <!--START_SECTION:waka-->
 
 ```TypeScript JavaScript PHP
-From: 13 March 2025 - To: 13 March 2026
+From: 14 March 2025 - To: 14 March 2026
 
-Total Time: 5 hrs 1 min
+Total Time: 4 hrs 29 mins
 
-JavaScript   4 hrs 22 mins         █████████████████████▓░░░   87.13 %
-YAML         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-JSON         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Bash         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Prisma       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript   4 hrs 15 mins         ███████████████████████▓░   95.10 %
+Bash         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Prisma       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
