@@ -11,7 +11,7 @@ Let's build something amazing together! 🚀
 <!--START_SECTION:waka-->
 
 ```TypeScript JavaScript PHP
-From: 31 March 2025 - To: 31 March 2026
+From: 01 April 2025 - To: 01 April 2026
 
 Total Time: 0 secs
 
