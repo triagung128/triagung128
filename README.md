@@ -11,14 +11,14 @@ Let's build something amazing together! 🚀
 <!--START_SECTION:waka-->
 
 ```TypeScript JavaScript PHP
-From: 12 May 2025 - To: 12 May 2026
+From: 14 May 2025 - To: 14 May 2026
 
-Total Time: 5 hrs 37 mins
+Total Time: 12 hrs 18 mins
 
-CSS          2 hrs 52 mins         ████████████▓░░░░░░░░░░░░   51.18 %
-HTML         2 hrs 21 mins         ██████████▓░░░░░░░░░░░░░░   42.03 %
-JavaScript   22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+CSS          7 hrs 16 mins         ██████████████▓░░░░░░░░░░   59.06 %
+HTML         3 hrs 51 mins         ████████░░░░░░░░░░░░░░░░░   31.35 %
+JavaScript   1 hr 10 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
