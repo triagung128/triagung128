@@ -26,7 +26,7 @@ jobs:
           CODE_LANG: TypeScript, JavaScript, PHP
           LANG_COUNT: 7
           
-          SHOW_TITLE: false
+          SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
