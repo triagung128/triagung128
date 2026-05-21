@@ -2,8 +2,7 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *" 
+  schedule: 
     - cron: "0 12 * * *"
 
 permissions: 
@@ -31,3 +30,6 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
+
+          COMMITTER_NAME: triagung128
+          COMMITTER_EMAIL: triagung128@gmail.com
