@@ -31,5 +31,5 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
 
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          COMMITTER_NAME: triagung128
+          COMMITTER_EMAIL: triagung128@gmail.com
