@@ -11,13 +11,13 @@ Let's build something amazing together! 🚀
 <!--START_SECTION:waka-->
 
 ```TypeScript, JavaScript, PHP
-From: 08 August 2026 - To: 15 August 2026
+From: 09 August 2026 - To: 16 August 2026
 
-Total Time: 35 hrs 18 mins
+Total Time: 34 hrs 17 mins
 
-TypeScript   34 hrs 16 mins        >>>>>>>>>>>>>>>>>>>>>>>>-   97.05 %
-Markdown     56 mins               >------------------------   02.65 %
-CSS          5 mins                -------------------------   00.27 %
+TypeScript   33 hrs 26 mins        >>>>>>>>>>>>>>>>>>>>>>>>-   97.48 %
+Markdown     45 mins               >------------------------   02.21 %
+CSS          5 mins                -------------------------   00.28 %
 Other        0 secs                -------------------------   00.03 %
 ```
 
