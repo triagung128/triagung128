@@ -11,17 +11,17 @@ Let's build something amazing together! 🚀
 <!--START_SECTION:waka-->
 
 ```TypeScript, JavaScript, PHP
-From: 22 August 2026 - To: 29 August 2026
+From: 23 August 2026 - To: 30 August 2026
 
-Total Time: 5 hrs 50 mins
+Total Time: 8 hrs 33 mins
 
-YAML         1 hr 43 mins          >>>>>>>------------------   28.69 %
-PHP          1 hr 42 mins          >>>>>>>------------------   28.49 %
-TypeScript   1 hr 1 min            >>>>---------------------   17.16 %
-JSON         29 mins               >>-----------------------   08.18 %
-Bash         25 mins               >>-----------------------   07.01 %
-Docker       15 mins               >------------------------   04.23 %
-Other        9 mins                >------------------------   02.67 %
+PHP              3 hrs 5 mins          >>>>>>>>>----------------   35.54 %
+YAML             2 hrs 17 mins         >>>>>>>------------------   26.38 %
+TypeScript       1 hr 1 min            >>>----------------------   11.83 %
+JSON             38 mins               >>-----------------------   07.44 %
+Bash             36 mins               >>-----------------------   06.93 %
+Blade Template   19 mins               >------------------------   03.79 %
+Docker           15 mins               >------------------------   02.99 %
 ```
 
 <!--END_SECTION:waka-->
